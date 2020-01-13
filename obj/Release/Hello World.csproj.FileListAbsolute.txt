@@ -1,0 +1,5 @@
+C:\Users\juan\Documents\SharpDevelop Projects\Hello World\Hello World\bin\Release\Hello World.exe
+C:\Users\juan\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Release\Hello_World.MainForm.resources
+C:\Users\juan\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Release\Hello World.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Release\Hello World.exe
+C:\Users\juan\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Release\Hello World.csprojResolveAssemblyReference.cache

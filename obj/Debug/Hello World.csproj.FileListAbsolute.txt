@@ -1,0 +1,14 @@
+C:\Users\juan\Documents\SharpDevelop Projects\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\juan\Documents\SharpDevelop Projects\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\juan\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Debug\Hello_World.MainForm.resources
+C:\Users\juan\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\juan\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Debug\Hello World.pdb
+C:\Users\Vadik\Desktop\repos\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\Vadik\Desktop\repos\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Vadik\Desktop\repos\Hello World\Hello World\obj\Debug\Hello World.csprojAssemblyReference.cache
+C:\Users\Vadik\Desktop\repos\Hello World\Hello World\obj\Debug\Hello_World.MainForm.resources
+C:\Users\Vadik\Desktop\repos\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.cache
+C:\Users\Vadik\Desktop\repos\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\Vadik\Desktop\repos\Hello World\Hello World\obj\Debug\Hello World.pdb
